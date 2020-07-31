@@ -1,2 +1,2 @@
 # efCoreSoftDeletesSample
-A sample for EfCore.SoftDeletes implementation.
+Sample project for [EfCore.SoftDeletes](https://github.com/AshkanAbd/efCoreSoftDeletes) implementation.
